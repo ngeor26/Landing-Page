@@ -53,6 +53,125 @@ nav {
 
 .awesome-text-description {
     margin-left: 50px;
-    width: 70%;
+    width: 50%;
     word-wrap: break-word;
+}
+
+#signup {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: 900;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    margin-left: 50px;
+}
+
+#img {
+    height: 300px;
+    width: 500px;
+}
+
+#random-info {
+    background-color: rgba(114, 52, 222, 0.772);
+    width: 100%;
+    height: 500px;
+}
+
+.info-header-text {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    padding: 40px;
+}
+
+#trappista {
+    margin-left: 230px;
+}
+
+.images {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border-color: blue;
+    border: 5px solid #87ceeb;
+}
+
+.images-right {
+    margin-left: 50px;
+}
+
+#trappista-text {
+    margin-left: 240px;
+}
+
+#stilton {
+    margin-left: 100px;
+}
+
+#swiss {
+    margin-left: 120px;
+}
+
+#cubed {
+    margin-left: 130px;
+}
+
+#quoteArea {
+    background-color: gray;
+    width: 100%;
+    height: 300px;
+}
+
+#quote {
+    font-size: 70px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#quoter {
+    text-align: end;
+    padding-top: 100px;
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+}
+
+#callToAction {
+    margin: auto;
+    width: 70%;
+    border-radius: 5px;
+    height: 150px;
+    margin-top: 50px;
+    background-color: #3882F6;
+}
+
+#callToActionText {
+    height: 100px;
+    line-height: 110px;
+    padding-left: 150px;
+}
+
+#callToActionTextDesc {
+    padding-left: 150px;
+}
+
+#signup2 {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: 900;
+    border-radius: 10px;
+    border-color: white;
+    height: 40px;
+    width: 120px;
+
+    margin-left: 900px;
+    top: -50px;
+    position: relative;
 }
