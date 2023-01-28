@@ -1,0 +1,58 @@
+header {
+    background-color: #1F2937;
+    height: 500px;
+    width: 100%;
+}
+
+.header-logo-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.hero-text {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+
+nav {
+    display: flex;
+}
+
+* {
+    font-family: monospace;
+    margin: 0px;
+}
+
+.header-logo {
+    margin-left: 150px;
+    margin-right: 500px;
+    margin-top: 15px;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-link {
+    margin: 15px;
+}
+
+#awesome {
+    margin: 100px;
+}
+
+.awesome-text {
+    margin-left: 50px;
+    width: 40%;
+    word-wrap: break-word;
+}
+
+.awesome-text-description {
+    margin-left: 50px;
+    width: 70%;
+    word-wrap: break-word;
+}
